@@ -1,0 +1,4 @@
+{
+  "baseURL": "http://localhost:8090/",
+  "LOG_LEVEL":"INFO"
+}
